@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "lucky",
+    "email": "luckyjames@gmail.com",
+    "stack": "fron-end",
+    "decs": "html, css, js, React, mongodb ",
+    "img": "img/1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "john",
+    "email": "johnpeter@gmail.com",
+    "stack": "back-end",
+    "decs": "html, css, js, mongodb ",
+    "img": "img/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "sma",
+    "email": "samkim@gmail.com",
+    "stack": "full-stack",
+    "decs": "html, css, js, mongodb,node.js express ",
+    "img": "img/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "jenny",
+    "email": "jenny@gmail.com",
+    "stack": "full-stack",
+    "decs": "html, css,lqueary, js, mongodb,node.js express ",
+    "img": "img/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "okon",
+    "email": "okonpeter@gmail.com",
+    "stack": "cloud engineer",
+    "decs": "azure, aws, google cloud",
+    "img": "img/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "joshuea",
+    "email": "joshuea@gmail.com",
+    "stack": "back-end engineer",
+    "decs": "nodejs, express, php, java, django",
+    "img": "img/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "emma",
+    "email": "emma667@gmail.com",
+    "stack": "mobile  developer",
+    "decs": "javascript, html, css, react-native,",
+    "img": "img/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "joshuea",
+    "email": "joshuea@gmail.com",
+    "stack": "back-end engineer",
+    "decs": "nodejs, express, php, java, django",
+    "img": "img/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "micheal",
+    "email": "michealjosh@yahoo.com",
+    "stack": "ui/ux",
+    "decs": "figma, adoberXD, photoshop",
+    "img": "img/9.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "willfred lanrey",
+    "email": "willfred@yandex.com",
+    "stack": "back-end engineer",
+    "decs": "python, php, java, django",
+    "img": "img/10.jpeg"
+  }
+]
