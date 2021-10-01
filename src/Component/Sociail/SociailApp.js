@@ -29,13 +29,13 @@ function SociailApp() {
                   {props.name}
                 </ConName>
                 <Email>
-                  Anyamah@gmail.com
+                  {props.email}
                 </Email>
                 <Stack>
-                  Full stack
+                  {props.stack}
                 </Stack>
                 <Decs>
-
+                  {props.decs}
                 </Decs>
 
                 < ConButton>
@@ -116,4 +116,5 @@ display: flex;
 flex-wrap: wrap;
 justify-content: center;
 align-items: center;
+padding-top: 80px;
 `

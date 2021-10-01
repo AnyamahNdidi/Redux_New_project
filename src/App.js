@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Switch, Route, BrowserRouter } from "react-rou
 import SociailApp from './Component/Sociail/SociailApp';
 import 'antd/dist/antd.css'
 import SocailHeaders from "./Component/Sociail/SocailHeaders"
+import Socailfriends from "./Component/Sociail/Socailfriends"
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <SocailHeaders />
         <Switch>
           <Route path="/" exact component={SociailApp} />
+          <Route path="/firends" component={Socailfriends} />
         </Switch>
       </Router>
     </div>
